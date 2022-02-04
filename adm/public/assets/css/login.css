@@ -1,0 +1,19 @@
+.cms-logo {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4em;
+}
+
+.cms-logo img {
+    filter: invert(0.8);
+}
+
+.recovery {
+    text-align: center;
+    padding-top: 2em;
+}
+.recovery a {
+    text-decoration: none;
+    color: #30303D;
+    font-size: .9rem;
+}

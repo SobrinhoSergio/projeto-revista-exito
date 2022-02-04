@@ -1,0 +1,39 @@
+.layout-label {
+    cursor: pointer;
+    filter: grayscale(100%) brightness(40%);
+}
+
+.layout-label:hover {
+    filter: grayscale(0) brightness(100%);
+}
+
+.layout-input[type="radio"]:checked + .layout-card-subtitle +  .layout-label {
+    filter: grayscale(0) brightness(100%);
+}
+
+.layout-preview {
+    width: 100%;
+    height: auto;
+}
+
+.layout-field {
+    padding: 2em 2em;
+    text-align: center;
+}
+
+.layout-input {
+    display: none;
+}
+
+#layout-submit {
+    scroll-behavior: smooth;
+    display: flex;
+}
+    button.submit-layout {
+        width: 100%;
+    }
+
+.layout-header {
+    text-align: center;
+    font-size: 1.2rem;
+}

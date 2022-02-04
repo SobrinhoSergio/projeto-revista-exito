@@ -1,0 +1,34 @@
+.image-crop-options {
+    display: flex;
+    flex-direction: column;
+}
+
+.crop_image {
+    outline: none;
+    border:none;
+    padding: 18px 12px;
+}
+
+.crop-option-item {
+    width: 100%;
+    margin: .5em 0;
+}
+
+.image-crop-type-header {
+    text-align: center;
+    padding-top: 5px;
+}
+
+    .modal-title {
+        font-size: 1.2rem;
+    }
+
+#confirm-option {
+    color: white;
+    background: #133F32;
+}
+
+#cancel-option {
+    background: #B33A3A;
+    color: white;
+}

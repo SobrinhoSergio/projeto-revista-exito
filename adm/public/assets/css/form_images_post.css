@@ -1,0 +1,11 @@
+.post-form-images-container input[type='file'] {
+    display: none;
+}
+
+.post-form-images-container label {
+    text-align: center;
+}
+
+.post-form-images-container {
+    padding-top: 1em;
+}

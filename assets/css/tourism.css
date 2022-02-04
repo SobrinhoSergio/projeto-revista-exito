@@ -1,0 +1,17 @@
+.turismo-secao {
+    grid-area: turismo-secao;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-column-gap: 2rem;
+    margin: 2em 0;
+    padding: 1em 0;
+    border-top: 2px solid rgb(26, 74, 60);
+    border-bottom: 2px solid rgb(26, 74, 60);
+}
+.turismo-secao .news-card {
+    grid-template-rows: 30px 210px auto;
+}
+.turismo-secao .flex-button {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}

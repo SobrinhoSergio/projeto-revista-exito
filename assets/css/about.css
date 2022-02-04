@@ -1,0 +1,46 @@
+.about-img {
+    width: 100%;
+    height: 72vh;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../img/capa-about.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+
+.about-text {
+    text-align: center;
+}
+
+.magazines {
+    display: flex;
+    padding-bottom: 2em;
+}
+
+.magazine-card {
+    display: grid;
+    grid-template-areas: "magazine-card-img" "magazine-card-title" "magazine-card-description";
+    grid-template-columns: 180px;
+    grid-row-gap: 0.4em;
+    margin-right: calc((100% - 1080px) / 5);
+    text-decoration: none;
+    color: #30303d;
+}
+.magazine-card:last-child {
+    margin-right: 0;
+}
+
+.magazine-card-img {
+    grid-area: magazine-card-img;
+    cursor: pointer;
+}
+
+.magazine-card-title {
+    grid-area: magazine-card-title;
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.9rem;
+}
+
+.magazine-card-description {
+    grid-area: magazine-card-description;
+    font-size: 0.88rem;
+    width: 100%;
+}

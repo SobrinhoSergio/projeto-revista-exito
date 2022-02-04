@@ -1,0 +1,104 @@
+.videos-content {
+    grid-area: videos;
+    display: flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+.videos-content .flex-button, .videos-content a {
+    width: 100%;
+}
+
+.frame-video {
+    width: 100%;
+}
+
+.video-card {
+    display: grid;
+    width: 50%;
+    grid-template-areas: "video-card-subject ." "video-card-img video-card-body";
+    position: relative;
+    grid-template-rows: 30px 215px;
+    grid-template-columns: 50% 50%;
+    padding-right: 2rem;
+}
+.video-card:last-child {
+    /*padding-right: 0;*/
+    padding-bottom: 0;
+}
+.video-card a.playbutton {
+    position: absolute;
+    display: block;
+    background: url(http://www.slatecube.com/images/play-btn.png);
+    height: 100%;
+    width: 30%;
+    top: 19%;
+    left: 42%;
+    right: 38%;
+    bottom: 78%;
+    background-size: 50px 50px;
+    background-repeat: no-repeat;
+}
+
+.video-card-subject {
+    min-height: 30px;
+}
+.video-card .video-card-subject {
+    grid-area: video-card-subject;
+}
+
+.video-card-img {
+    grid-area: video-card-img;
+    height: 100%;
+    max-width: 100%;
+}
+
+.video-card-body {
+    grid-area: video-card-body;
+    display: grid;
+    grid-template-areas: "video-card-title" "video-card-description";
+    padding: 10px;
+}
+
+.video-card-title {
+    grid-area: video-card-title;
+    font-family: "Raleway", sans-serif;
+    font-size: 1.18rem;
+    font-weight: bold;
+    text-align: left;
+    color: #353543;
+}
+
+.video-card-description {
+    grid-area: video-card-description;
+    color: #0f0f0f;
+    text-align: left;
+    font-size: 0.9rem;
+}
+
+.texto-video, .texto-video * {
+    width: 100% !important;
+    /*margin: auto !important;*/
+    background: white !important;
+    line-height: initial !important;
+    font-size: max(20px,20px) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    color: #0f0f0f !important;
+}
+
+.texto-video a {
+    white-space: pre !important;       
+    white-space: pre-wrap !important;   
+    white-space: pre-line !important;     
+    white-space: -pre-wrap !important;     
+    white-space: -o-pre-wrap !important;   
+    white-space: -moz-pre-wrap !important; 
+    white-space: -hp-pre-wrap !important;  
+    word-wrap: break-word !important;
+    word-break: break-all;     
+}
+
+.texto-video img {
+    padding-top: 1em !important;
+    width: 100% !important;
+}

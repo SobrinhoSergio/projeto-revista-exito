@@ -1,0 +1,60 @@
+.anuncie-header-info {
+    padding-bottom: 2em;
+}
+
+.anuncie-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: "Montserrat", sans-serif;
+    padding-bottom: 6em;
+}
+
+.anuncie-card-title {
+    border-left: 10px solid #133F32;
+}
+.anuncie-card-title p {
+    margin-left: 5px;
+}
+
+.anuncie-card-dimensions {
+    margin-left: 15px;
+}
+
+.anuncie-card-formats {
+    padding-top: 2em;
+}
+
+.anuncie-card-formats-icons {
+    display: flex;
+}
+
+.format {
+    text-align: center;
+    padding-right: 3em;
+}
+.format:nth-child(3n) {
+    padding-right: 0px;
+}
+.format p {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+}
+
+.anuncie-icon {
+    color: #133F32;
+}
+
+.anuncie-warning {
+    font-size: 0.7rem;
+    font-weight: bolder;
+}
+
+.anuncie-card-wireframes {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.img-slideWireframe {
+    max-width: 100%;
+}

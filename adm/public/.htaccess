@@ -1,0 +1,32 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+#localhost
+RewriteBase /exitorio2021/adm/public/
+
+#servidor real
+#RewriteBase /adm/public/
+
+#iuri0138
+#RewriteBase /~wwwexitoriocom/adm/public/
+
+#2021
+#RewriteBase /2021/adm/
+
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#localhost
+RewriteRule . /exitorio2021/adm/public/ [L]
+
+#servidor real
+#RewriteRule . /adm/public/ [L]
+
+#iuri30138
+#RewriteRule . /~wwwexitoriocom/adm/public/
+
+#2021
+#RewriteRule . /2021/adm/public/
+
+</IfModule>

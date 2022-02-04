@@ -1,0 +1,133 @@
+/*share mobile */
+.share-desktop {
+    display: none;
+}
+
+.share-icon {
+    visibility: hidden;
+}
+
+.share-wpp {
+    background-color: #4DC247;
+    color: white;
+}
+
+.share-fb {
+    background-color: #3B5997;
+    color: white;
+}
+
+.share-twitter {
+    background-color: #00ACED;
+    color: white;
+    margin-bottom: 2em;
+}
+.share {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.share h2 {
+    margin-top: 1em;
+    font-size: 1.2rem;
+}
+
+.share button {
+    border: none;
+    padding: 0.8em 1.8em;
+    margin-top: 1.5em;
+    cursor: pointer;
+    border-radius: 50px;
+    font-family: "Raleway", sans-serif;
+    width: 100%;
+}
+
+/*@media screen and (min-width: 768px) {*/
+
+/*    .share-desktop {*/
+/*        display: block;*/
+/*    }*/
+
+/*    .share-icon {*/
+/*        cursor: pointer;*/
+/*        font-size: 1rem;*/
+/*        visibility: visible;*/
+/*    }*/
+
+/*    .share-icon:hover {*/
+/*        color: #133F32;*/
+/*    }*/
+
+/*    .shrink {*/
+/*        transition: all 0.2s ease-in-out;*/
+/*    }*/
+
+/*    .shrink:hover {*/
+/*        transform: scale(0.95);*/
+/*    }*/
+
+/*    .overlay {*/
+/*        opacity: 1;*/
+/*        position: absolute;*/
+/*        z-index: 0;*/
+/*        top: 0;*/
+/*        left: 0;*/
+/*        width: 100%;*/
+/*        height: 100vh;*/
+/*        background: rgba(0, 0, 0, 0.5);*/
+/*    }*/
+
+/*    .share {*/
+/*        position: absolute;*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        top: 30%;*/
+/*        margin: auto;*/
+/*        width: 50%;*/
+/*        z-index: 1;*/
+/*        padding: 1em;*/
+/*        background: white;*/
+/*    }*/
+
+
+/*    .share, .overlay {*/
+/*        display: none;*/
+/*    }*/
+
+/*    .show-share {*/
+/*        display: block;*/
+/*    }*/
+
+/*    .share h2 {*/
+/*        margin: 0;*/
+/*    }*/
+
+/*    .imoveis-card {*/
+/*        background-color: rgba(122, 122, 122, 0.3);*/
+/*        background-size: 110%;*/
+/*    }*/
+/*    .imoveis-card-subject {*/
+/*        padding: 1em .15em;*/
+/*        padding-top: .2em;*/
+/*    }*/
+/*    .imobiliaria {*/
+/*        padding: .2em;*/
+/*    }*/
+/*}*/
+
+/*@media screen and (min-width: 1200px) {*/
+
+/*    .show-share {*/
+/*        display: flex;*/
+/*        text-align: center;*/
+/*    }*/
+/*    .share button {*/
+/*        width: 33%;*/
+/*    }*/
+
+/*    .especiais-img-full, .especiais-text, .frame-video {*/
+/*        max-width: 50rem;*/
+/*        margin: 0 auto;*/
+/*    }*/
+
+/*}*/

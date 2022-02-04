@@ -1,0 +1,19 @@
+RewriteEngine On
+
+#localhost setado em htdocs
+RewriteBase /exitorio2021/adm/
+
+#servidor real
+#RewriteBase /adm/
+
+#iuri0138
+#RewriteBase /~wwwexitoriocom/adm/
+
+#2021
+#RewriteBase /2021/adm/
+
+RewriteCond %{THE_REQUEST} /public/([^\s?]*) [NC]
+RewriteRule ^ %1 [L,NE,R=302]
+
+RewriteRule ^((?!public/).*)$ public/$1 [L,NC]
+

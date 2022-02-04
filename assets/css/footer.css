@@ -1,0 +1,112 @@
+.footer {
+    grid-area: footer;
+    display: flex;
+    /* degradê */
+    /*background: rgb(2,0,36);
+    /*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(25,25,112,1) 64%, rgba(52,135,152,1) 100%);*/
+    background: #133F32;
+    clear: both;
+}
+.footer h3 {
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: light;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+.footer a, .footer li {
+    padding-bottom: 0.8rem;
+    font-size: 0.98rem;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    cursor: pointer;
+}
+.footer a:hover, .footer li:hover {
+    color: #d0d0da;
+}
+.footer a:last-child, .footer li:last-child {
+    padding-bottom: 3rem;
+}
+.footer a i, .footer li i {
+    color: #FFFFFF;
+}
+
+.footer-nav {
+    grid-area: footer-nav;
+    flex-grow: 1;
+    display: grid;
+    grid-template-areas: "footer-logo footer-contact footer-map list-overflow footer-social-media";
+    grid-template-columns: repeat(5, 20%);
+}
+
+/* logo */
+.footer-logo {
+    grid-area: footer-logo;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 0;
+}
+
+/* contact */
+.footer-contact {
+    grid-area: footer-contact;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-contact-list {
+    display: flex;
+    flex-direction: column;
+}
+
+/* website map */
+.footer-map {
+    grid-area: footer-map;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list-overflow {
+    grid-area: list-overflow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5rem;
+    margin-top: 0;
+}
+
+/* social media */
+.footer-social-media {
+    grid-area: footer-social-media;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-social-media a {
+    margin-right: 1rem;
+    font-size: 30px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    display: inline-block;
+    padding-top: 13px;
+    padding-right: 0.5px;
+    transition: transform 0.3s;
+}
+.footer-social-media a i {
+    color: #133F32;
+}
+.footer-social-media a:hover {
+    background-color: #d9d9d9;
+    transform: scale(0.85);
+}
+.footer-social-media a:last-child {
+    margin-right: 0;
+}

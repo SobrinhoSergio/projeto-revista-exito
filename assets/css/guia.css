@@ -1,0 +1,81 @@
+.guia {
+    min-height: calc(100vh - 376px);
+}
+.guia-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.guia-intro {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.guia-selection {
+    display: flex;
+    flex-direction: column;
+}
+.guia-select {
+    width: 250px; 
+    height: 60px;
+
+}
+
+.guia-main-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin: 20px 20px;
+}
+
+.guia-card-wrapper {
+    border: 1px solid #d0d0da;
+    margin-bottom: 20px;
+    background-color: #d0d0da;
+    max-width: 245px;
+    border-radius: 20px;
+    height: 175px;
+}
+
+.guia-card {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 100%;
+}
+
+img.guia-card {
+    height: auto;
+    z-index: 3;
+}
+
+.guia-card img {
+    transition: .6s;
+    border-radius: 4px;  
+}
+
+.guia-card img:hover {
+    transform: scale(.98);
+}
+
+
+.guia-main-category {
+    display: flex;
+    width: 200px;
+    background-color: #F89B1C;
+    color: white;
+    padding: 16px 12px;
+    text-transform: uppercase;
+    justify-content: center;
+}
+
+.guia-label {
+    font-size: 1.2rem;
+    margin-bottom: .2em;
+    color: #133F32;
+}
+
+/* override lightbox */
+.lb-number {
+    display: none;
+    visibility: hidden;
+}

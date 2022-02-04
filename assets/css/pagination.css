@@ -1,0 +1,27 @@
+.list-pages {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em 0;
+    margin-top: 2em;
+}
+.list-arrow-anchor, .list-page-anchor {
+    width: 42px;
+    height: 42px;
+    background: white;
+    border: 1px solid gray;
+    color: #0f0f0f;
+    font-size: 1.4rem;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 5px;
+}
+.list-arrow-anchor {
+    /*border-radius: 50%;*/
+    padding-bottom: 1px;
+}
+
+.list-current-page {
+    color: #F89B1C;
+}

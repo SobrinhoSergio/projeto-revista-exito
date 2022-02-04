@@ -1,0 +1,83 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+th, td {
+    /*padding: 45px 20px;*/
+    text-align: left;
+}
+
+td {
+    padding: 0 5px;
+    font-size: .9rem;
+    background: white;
+    text-align: center;
+}
+    td a {
+        color: #133F32;
+    }
+
+    .td-div {
+        min-height: 35px;
+        padding-top: 5px;
+    }
+
+th {
+    padding: 30px 15px;
+    background: #0f0f0f;
+    color: white;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.table-th {
+    font-size: .9rem;
+    font-weight: normal;
+}
+
+.list-pages {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em 0;
+    margin: 2em 0;
+}
+    .list-arrow-anchor, .list-page-anchor {
+        width: 42px;
+        height: 40px;
+        background: #0f0f0f;
+        color: white;
+        font-size: 1.4rem;
+        text-align: center;
+        line-height: 40px;
+        border-radius: 5px;
+    }
+    .list-arrow-anchor {
+        border-radius: 50%;
+    }
+
+.list-current-page {
+    color: #133F32;
+}
+
+/* usuarios */
+.users-list-table {
+    width: 100%;
+}
+    .users-list-table th, .users-list-table td {
+        max-width: calc(100vw / 3);
+    }
+
+/* posts */
+.img-post-list {
+    height: 35px;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+

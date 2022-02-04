@@ -1,0 +1,23 @@
+/* hide mobile */
+.menu-open,
+.menu-close, .navbar {
+    display: none;
+}
+
+.menu-close {
+    font-weight: bolder;
+}
+
+.header-desktop {
+    display: block;
+    grid-area: header-desktop;
+    background: #133F32;
+    text-align: center;
+    padding: 0.5rem 0;
+    padding-top: 0.6rem;
+}
+
+.drop-div-text {
+    color: white;
+    cursor: pointer;
+}

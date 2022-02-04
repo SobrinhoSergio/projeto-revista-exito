@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* mobile first, media queries para tablet/desktop em responsive.css */
+
+@import 'navbar.css';
+@import 'forms.css';
+@import 'login.css';
+@import 'main.css';
+@import 'list.css';
+@import 'layout_post.css';
+@import 'images_post.css';
+@import 'form_images_post.css';
+@import 'partner.css';
+@import 'sponsor.css';
+@import 'responsive.css';
+
+
+
+body {
+    background: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    color: #30303D;
+}
+
+    .container {
+        padding: 0 1rem;
+        max-width: 80rem;
+        margin-left: auto;
+        margin-right: auto;
+        min-height: calc(100vh - 200px);
+    }
+
+    .content {
+        padding: 2rem 0;
+    }
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+}

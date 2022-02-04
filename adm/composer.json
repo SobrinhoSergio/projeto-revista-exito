@@ -1,0 +1,22 @@
+{
+  "name": "friweb/cms",
+  "description": "Sistema de gerenciamento de conteúdo para clientes Friweb",
+  "license": "proprietary",
+
+  "autoload": {
+    "files": [
+      "src/config/config.php",
+      "src/config/session.php"
+    ],
+    "psr-4": {
+      "Friweb\\CMS\\AppException\\": "src/AppException/",
+      "Friweb\\CMS\\Model\\": "src/Model/"
+    }
+  },
+  "require": {
+    "ext-gd": "*",
+    "ext-mbstring": "*",
+    "ext-json": "*",
+    "ircmaxell/password-compat": "1.*"
+  }
+}

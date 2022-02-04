@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<!-- saved from url=(0122)file:///C:/Users/REVISTA/Desktop/ACIANF%20-%20Delivery%20em%20Nova%20Friburgo%20-%20Bota%20a%20Economia%20pra%20Rodar.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+	<!-- Website Title -->
+	<title>ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar</title>
+
+	<!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+	<meta property="og:site_name" content=""> <!-- website name -->
+	<meta property="og:site" content=""> <!-- website link -->
+	<meta property="og:title" content=""> <!-- title shown in the actual shared post -->
+	<meta property="og:description" content=""> <!-- description shown in the actual shared post -->
+	<meta property="og:image" content=""> <!-- image link, make sure it's jpg -->
+	<meta property="og:url" content=""> <!-- where do you want your post to link to -->
+	<meta property="og:type" content="article">
+
+	<!-- SEO Meta Tags -->
+	<meta name="description" content="Encontre aqui empresas que fazem entregas dos mais variados produtos.">
+	<meta name="keywords" content="Encontre aqui empresas que fazem entregas dos mais variados produtos.">
+
+	<!-- Styles -->
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/css" rel="stylesheet">
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/bootstrap.css" rel="stylesheet">
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/font-awesome.css" rel="stylesheet">
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/material-design-iconic-font.css" rel="stylesheet">
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/swiper.css" rel="stylesheet">
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/magnific-popup.css" rel="stylesheet">
+	<link target="_blank" href="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/styles.css" rel="stylesheet">
+
+	<!-- Favicon  -->
+	<link rel="icon" target="_blank" href="http://delivery.acianf.com.br/images/favicon.png">
+
+	<script async="" src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/analytics.js.download"></script><script async="" src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/analytics.js(1).download"></script><script>
+		(function(i, s, o, g, r, a, m) {
+			i['GoogleAnalyticsObject'] = r;
+			i[r] = i[r] || function() {
+				(i[r].q = i[r].q || []).push(arguments)
+			}, i[r].l = 1 * new Date();
+			a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0];
+			a.async = 1;
+			a.src = g;
+			m.parentNode.insertBefore(a, m)
+		})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+		ga('create', 'UA-59227687-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+</head>
+
+<body data-spy="scroll" data-target=".navbar-fixed-top"><a href="file:///C:/Users/REVISTA/Desktop/body" class="back-to-top page-scroll">Back to Top</a><a href="http://delivery.acianf.com.br/body" class="back-to-top page-scroll">Back to Top</a>
+
+	<!-- Preloader -->
+	<div class="spinner-wrapper" style="display: none;">
+		<div class="spinner">
+			<div class="bounce1"></div>
+			<div class="bounce2"></div>
+			<div class="bounce3"></div>
+		</div>
+	</div>
+
+
+	<!-- NAVIGATION -->
+	<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="navbar-header page-scroll">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand page-scroll" target="_blank" href="http://delivery.acianf.com.br/header"><img src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/logo.png" alt="logo"></a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="navbar-collapse collapse" id="myNavbar" style="padding-bottom: 20px;">
+					<!-- <div class="navbar-collapse collapse" id="myNavbar"> -->
+					<ul class="nav navbar-nav navbar-right">
+						<!-- <li class="active"><a class="page-scroll" target="_blank" href="#busca">BUSCA</a></li> -->
+						<li><a class="page-scroll" target="_blank" href="http://delivery.acianf.com.br/#facts"> SOBRE A CAMPANHA</a></li>
+						<li><a class="page-scroll" target="_blank" href="http://delivery.acianf.com.br/#contato">CONTATO</a></li>
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</div> <!-- end of navigation -->
+
+
+	<!--- HEADER -->
+	<header id="header" class="header">
+		<div class="flex-container-wrapper">
+			<!-- IE fix for vertical alignment in flex box -->
+			<div class="header-content">
+
+
+				<div class="swiper-container-header swiper-container-horizontal">
+					<div class="swiper-wrapper">
+						<div class="banner1">
+							<img class="banner" src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/banner-acianf__1920x1900.jpg" alt="banner1" center="">
+						</div>
+						<div class="banner2">
+							<img class="banner" src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/banner-acianf__1920x1900.jpg" alt="banner1" center="">
+						</div>
+					</div>
+				</div>
+
+				<div class="content-overlay duration">
+					<div class="container">
+						<div class="row">
+							<div class="header-content-wrapper alternar">
+								<div class="col-md-12 logo1">
+									<img src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/selo-png-transparente.png" alt="banner1">
+								</div>
+								<div class="col-md-6 o2">
+									<div class="duration-pane1">
+										<h3 style="color: #52555f;">CADASTRE SEU NEGÓCIO</h3>
+										<p style="color: #52555f; text-align: justify;">
+											Empresário, seja associado da ACIANF!<br> 
+											Cadastre sua empresa em nosso portal e divulgue seus serviços de delivery!
+										</p><br>
+										<div class="center-button">
+											<a class="button-solid1 page-scroll" target="_blank" href="https://web.whatsapp.com/send?phone=5522996106930&amp;text=&amp;source=&amp;data=">CLIQUE AQUI</a><br>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="duration-pane1">
+										<h3 style="color: #52555f;">PESQUISE UM DELIVERY</h3>
+										<p style="color: #52555f; text-align: justify;">
+											Preencha o campo abaixo com o tipo de negócio que você procura e clique no botão buscar para encontrar as empresas que entregam na sua casa.
+										</p>
+										<form action="https://acianf.com.br/busca" class="load">
+											<input type="hidden" name="diferencial[]" value="12">
+											<input type="hidden" name="diferencial[]" value="7">
+											<div class="form-group">
+												<input name="search" type="text" class="form-control-input" id="text" placeholder="O que procura" required="">
+												<div class="help-block with-errors"></div>
+											</div>
+											<div class="form-group">
+												<div class="help-block with-errors"></div>
+											</div>
+											<button type="submit" class="form-control-submit-button">BUSCAR</button>
+											<div class="form-message">
+												<div id="msgSubmit" class="h3 text-center hidden"></div>
+											</div>
+										</form>
+										<div id="busca" class="frequent-questions">
+											<p class="text-center" style="color: #52555f;">MAIS BUSCADOS</p><br>
+											<div>
+												<ul class="nav2 navbar-nav">
+													<li class="active"><a class="page-scroll load" style="text-decoration: underline;" href="https://acianf.com.br/busca?search=Restaurante&amp;diferencial%5B%5D=12&amp;diferencial%5B%5D=7">RESTAURANTE</a></li>
+													<li><a class="page-scroll load" style="text-decoration: underline;" href="https://acianf.com.br/busca?search=Farm%C3%A1cia&amp;diferencial%5B%5D=12&amp;diferencial%5B%5D=7">FARMÁCIA</a></li>
+													<li><a class="page-scroll load" style="text-decoration: underline;" href="https://acianf.com.br/busca?search=Mercado&amp;diferencial%5B%5D=12&amp;diferencial%5B%5D=7">MERCADO</a></li>
+													<li><a class="page-scroll load" style="text-decoration: underline;" href="https://acianf.com.br/busca?search=Material+de+constru%C3%A7%C3%A3o&amp;diferencial%5B%5D=12&amp;diferencial%5B%5D=7">MAT DE CONSTRUÇÃO</a></li>
+													<li><a class="page-scroll load" style="text-decoration: underline;" href="https://acianf.com.br/busca?search=&amp;diferencial%5B%5D=12&amp;diferencial%5B%5D=7">VER TODOS</a></li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div> <!-- end of col-md-6 -->
+							</div> <!-- end of header-content-wrapper -->
+						</div>
+					</div>
+				</div>
+			</div> <!-- end of header-content -->
+		</div> <!-- end of IE vertical alignment fix -->
+	</header> <!-- end of header -->
+
+	<div id="facts" class="facts-1 clearfix">
+		<div class="facts-1-image-pane">
+		</div>
+
+		<div class="facts-1-text-pane">
+			<div class="facts-1-text-pane-container">
+				<div class="facts-wrapper">
+					<!-- <h3>Argo's Training Will...</h3> -->
+					<ul class="zmdi-hc-ul">
+						<p style="font-size: 18px; text-align: justify; margin-right: 25px;"><br>
+							Para unir quem vende por delivery com quem comprar, a Acianf criou a Bota a Economia para Rodar. Uma campanha que estimula o comércio local e facilita a vida de quem fica em casa.
+							Encontre aqui empresas que fazem entregas dos mais variados produtos: tem de material de informática a material de construção. Todas são empresas friburguenses que empregam centenas de pessoas e contam com seu apoio e preferência para enfrentar esse momento de crise.
+							E assim, a gente bota a economia para rodar e mantém forte a economia da nossa cidade.
+						</p>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div> <!-- end of facts-1 -->
+
+	<!-- Contato -->
+	<div id="contato" class="contato">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4">
+					<div class="contato-pane">
+						<h4>Precisa falar com a gente?</h4>
+						<div class="contato-details">
+							<h5>Envie um Whatsapp</h5>
+							<!-- <p><i class="fa fa-whatsapp" style="color: #337ab7;" aria-hidden="true"></i><a target="_blank" href="https://web.whatsapp.com/send?phone=5522997919680&text=&source=&data=" style="color: #337ab7;"><strong class="a-btn a-block footer-link d-sm-none d-block">(22) 99791-9680</strong></a></p>
+							<p><i class="fa fa-whatsapp" style="color: #337ab7;" aria-hidden="true"></i><a target="_blank" href="https://web.whatsapp.com/send?phone=5522997919680&text=&source=&data=" style="color: #337ab7;"><strong class="a-btn a-block footer-link d-sm-block d-none">(22) 99791-9680</strong></a></p>							 -->
+							<!-- <p><i class="fa fa-whatsapp" style="color: #337ab7;" aria-hidden="true"></i><a target="_blank" href="https://web.whatsapp.com/send?phone=5522997919680&text=&source=&data=" style="color: #337ab7;"><strong>&nbsp;(22) 99791-9680</strong></a></i>&nbsp;&nbsp; -->
+							<p><i class="fa fa-whatsapp" style="color: #337ab7;" aria-hidden="true"></i><a target="_blank" href="https://web.whatsapp.com/send?phone=5522996106930&amp;text=&amp;source=&amp;data=" style="color: #337ab7;"><strong>&nbsp;(22) 99610-6930</strong></a>&nbsp;&nbsp;
+								<!-- <h5>Ligue para nós</h5>
+								<p><i class="fa fa-phone" style="color: #337ab7;" aria-hidden="true"><a style="color: #337ab7;" target="_blank" href="tel:022997919680"><strong>(22) 99791-9680</strong></a></i>&nbsp;&nbsp; -->
+						</p></div>
+					</div>
+				</div>
+
+				<div class="col-md-4">
+					<div class="contato-pane">
+						<h4>Redes Sociais</h4>
+						<ul class="contact-left text-center-mobile">
+							<li>
+								<a target="_blank" href="https://www.instagram.com/acianf/" class="a-btn a-block footer-link">Instagram</a>
+							</li>
+							<li>
+								<a target="_blank" href="https://www.facebook.com/acianf" class="a-btn a-block footer-link">Facebook</a>
+							</li>
+						</ul>
+					</div>
+					<div class="contact-bg">
+						<h4 class="iq-tw-6 iq-font-white iq-mb-10 text-center-mobile">Acesse</h4>
+						<div class="row">
+							<div>
+								<ul class="contact-center text-center-mobile">
+									<li><a target="_blank" href="https://acianf.com.br/" class="footer-link">Site</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+				<div class="col-lg-3 col-md-4 col-sm-6">
+					<h5 class="iq-tw-6 iq-font-white iq-mb-10 text-center-mobile">Compartilhe</h5>
+					<div class="row" style="display: flex;">
+						<div class="col-3 col-sm-2 col offset-sm-0">
+							<div class="text-center iq-font-white icone-rodape">
+								<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://campanha.acianf.com.br/"><span class="fa fa-facebook-official icon-md"></span></a>
+							</div>
+						</div>
+
+						<div class="col-3 col-sm-2">
+							<div class="text-center iq-font-white icone-rodape">
+								<a target="_blank" href="https://web.whatsapp.com/send?text=ACIANF%20-%20Delivery%20em%20Nova%20Friburgo%20-%20Bota%20a%20Economia%20pra%20Rodar%20file%3A%2F%2F%2FC%3A%2FUsers%2FREVISTA%2FDesktop%2FACIANF%2520-%2520Delivery%2520em%2520Nova%2520Friburgo%2520-%2520Bota%2520a%2520Economia%2520pra%2520Rodar.html" id="whatsapp-share-btt" rel="nofollow"><span class="fa fa-whatsapp icon-md"></span></a>
+								<!-- <a target="_blank" href="https://web.whatsapp.com/send?phone=5522997919680&text=&source=&data="><span class="fa fa-whatsapp icon-md d-sm-none d-block"></span></span></a>
+                                    <a target="_blank" href="https://web.whatsapp.com/send?phone=5522997919680&text=&source=&data="><span class="fa fa-whatsapp icon-md d-sm-block d-none"></span></span></a> -->
+							</div>
+						</div>
+
+						<div class="col-3 col-sm-2">
+							<div class="text-center iq-font-white icone-rodape">
+								<a target="_blank" href="https://twitter.com/share?url=https://campanha.acianf.com.br/"><span class="fa fa-twitter icon-md"></span></a>
+							</div>
+						</div>
+
+						<div class="col-3 col-sm-2">
+							<div class="text-center iq-font-white icone-rodape">
+								<a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=https://campanha.acianf.com.br"><span class="fa fa-linkedin icon-md"></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> <!-- end of row -->
+		</div> <!-- end of container -->
+	</div>
+
+
+	<!-- COPYRIGHT -->
+	<div class="copyright">
+		<div class="container text-center">
+			<span> © 2020 – Todos os Direitos Reservados. Site por <a target="_blank" href="https://dtopublicidade.com.br/" class="footer-link">DTO Publicidade</a>.
+		</span></div> <!-- end of container -->
+	</div> <!-- end of copyright -->
+
+
+	<!-- SCRIPTS -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/jquery-2.2.4.min.js.download" type="text/javascript"></script> <!-- jQuery v2.2.4 - necessary for Bootstrap's JavaScript plugins -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/bootstrap.min.js.download" type="text/javascript"></script> <!-- Bootstrap v3.3.7 -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/jquery.easing.min.js.download" type="text/javascript"></script> <!-- jQuery Easing v1.3 for smooth scrolling between anchors -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/jquery.countdown.min.js.download" type="text/javascript"></script> <!-- The Final Countdown v2.2.0 plugin for jQuery -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/swiper.min.js.download" type="text/javascript"></script> <!-- Swiper v3.4.2 for image gallery swiper -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/jquery.magnific-popup.js.download" type="text/javascript"></script> <!-- Magnific Popup v1.1.0 for lightboxes -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/waypoints.min.js.download" type="text/javascript"></script> <!-- jQuery Waypoints v2.0.3 required by Counter-Up -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/jquery.counterup.min.js.download" type="text/javascript"></script> <!-- Counter-Up v1.0 for statistics -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/validator.min.js.download" type="text/javascript"></script> <!--  Validator.js v0.11.8 Bootstrap plugin that validates the registration form -->
+	<script src="./ACIANF - Delivery em Nova Friburgo - Bota a Economia pra Rodar_files/scripts.js.download" type="text/javascript"></script> <!-- Custom scripts -->
+
+	<script type="text/javascript">
+		//Constrói a URL depois que o DOM estiver pronto
+		document.addEventListener("DOMContentLoaded", function() {
+			//conteúdo que será compartilhado: Título da página + URL
+			var conteudo = encodeURIComponent(document.title + " " + window.location.href);
+			//altera a URL do botão
+			document.getElementById("whatsapp-share-btt").href = "https://web.whatsapp.com/send?text=" + conteudo;
+		}, false);
+	</script>
+
+
+
+</body></html>

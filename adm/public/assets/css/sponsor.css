@@ -1,0 +1,59 @@
+@media (min-width:576px) {
+    .modal-dialog {
+        max-width: 100%;
+        margin: .5rem;
+    }
+}
+.modal-backdrop {
+background-color: rgba(0,0,0,0.7);
+}
+
+.modal-content {
+display: block;
+}
+
+
+.modal-header {
+    justify-content: flex-start;
+}
+
+/*.modal-header .close {*/
+/*    padding: 0 .5rem;*/
+/*    margin: 0;*/
+/*}*/
+
+.display-none {
+    display: none;
+    visibility: hidden;
+}
+.display-block {
+    display: block;
+    visibility: initial;
+}
+
+
+.ads-options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ad-option {
+    outline: none;
+    border: 2px solid rgba(59, 59, 59, 0.658);
+    border-radius: 10px;
+    padding: 16px 12px;
+    background-color: darkslategray;
+    color: white;
+    margin: 20px;
+}
+
+.ads-zoom-out {
+    zoom: .5;
+}
+
+.ads-img-subtitle {
+    margin-bottom: 1em;
+    font-size: 1.1rem;
+}

@@ -1,0 +1,184 @@
+.news {
+    grid-area: news;
+    display: grid;
+    margin-bottom: 1em;
+    grid-template-areas: "news-content" "news-extras";
+    grid-template-columns: 100%;
+    grid-column-gap: 4em;
+    text-align: left;
+}
+
+/* main news */
+.news-content {
+    grid-area: news-content;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 2em;
+    grid-row-gap: 1em;
+}
+
+.imoveis-content {
+    display: grid;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 0.4em;
+    grid-column-gap: 2em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    margin-top: 30px;
+}
+
+.imoveis-content .canal-imoveis{
+    font-size: 1.0rem;
+  
+}
+
+/* imoveis */
+.imoveis-card {
+    display: grid;
+    grid-template-areas: "imoveis-card-header imoveis-card-body";
+    grid-template-columns: 48% 1fr;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-column-gap: 2em;
+    cursor: pointer;
+    margin-top: 0.4em;
+}
+
+.imoveis-card-header {
+    grid-area: imoveis-card-header;
+    display: grid;
+    grid-template-areas:"imoveis-card-img";
+    grid-template-rows: 288px;
+    text-align: left;
+}
+
+.imoveis-card-subject {
+    grid-area: imoveis-card-subject;
+    text-align: left;
+    text-align: left;
+}
+
+.imoveis-card-img {
+    grid-area: imoveis-card-img;
+    height: 100%;
+    width: 100%;
+}
+
+.imoveis-card-body {
+    grid-area: imoveis-card-body;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 2em;
+    color: #292934;
+    font-family: "Raleway", sans-serif;
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+.imoveis-card-title {
+    font-weight: 900;
+    text-align: left;
+    padding-bottom: .6em;
+}
+
+.link-imobiliaria {
+    color: #133F32;
+}
+
+.news-card {
+    display: grid;
+    grid-template-areas: "news-card-subject" "news-card-img" "news-card-body";
+    cursor: pointer;
+    grid-template-rows: 30px 288px auto;
+    padding-bottom: 0;
+    text-align: left;
+}
+
+.news-card-subject {
+    grid-area: news-card-subject;
+    display: flex;
+    text-align: left;
+}
+
+.news-card-img {
+    grid-area: news-card-img;
+    height: 100%;
+    width: 100%;
+}
+
+.news-card-body {
+    grid-area: news-card-body;
+    display: grid;
+    grid-template-areas: "news-card-header" "news-card-description";
+    grid-row-gap: 0.4rem;
+    text-align: left;
+}
+
+.news-card-header {
+    grid-area: news-card-header;
+    padding-top: .5em;
+    text-align: left;
+}
+
+.news-card-title {
+    font-size: 0.98rem;
+    text-align: center;
+    padding-top: 0.4rem;
+}
+
+.news-card-description {
+    grid-area: news-card-description;
+    text-align: left !important;
+    font-size: 0.9rem;
+    padding: 0.4rem 0.4rem;
+}
+
+/* main news end */
+/* extras */
+.news-extras {
+    grid-area: news-extras;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 2em;
+    grid-row-gap: 1.5em;
+    margin-bottom: 2em;
+}
+
+.news-card-extra {
+    display: grid;
+    grid-template-areas: "news-card-extra-subject ." "news-card-extra-img news-card-extra-title";
+    grid-column-gap: 0.2rem;
+    cursor: pointer;
+    grid-template-columns: 160px auto;
+    grid-template-rows: auto 125px;
+}
+
+.news-card-extra-subject {
+    min-height: 20px;
+    grid-area: news-card-extra-subject;
+    font-size: 0.7rem;
+}
+
+.news-card-extra-img {
+    grid-area: news-card-extra-img;
+    height: 100%;
+    width: 100%;
+}
+
+.news-card-extra-title {
+    grid-area: news-card-extra-title;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-family: "Raleway", sans-serif;
+    font-weight: light;
+    font-size: 0.9rem;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100%;
+    height: 100%;
+}
